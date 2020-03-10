@@ -5,7 +5,8 @@ Snake Game. Pure JS. OO paradigm. No Frameworks.
 At the moment has only two 3rd-party dependencies:
 - Reqire JS (to nicely split the APP into modules) https://requirejs.org/
 - Font Awesome (for cool icons), expected to be replaced with the hand-made SVGs
-# How to run options
+# How to run
+- Directly through GitHub: https://nicklausbrain.github.io/SnakeGame/SnakeGame
 - Host using any HTTP server
 - Can be hosted by Node.JS out of the box, running:
 ``` bash
